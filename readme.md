@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I’m Harish Kumar.L
 
-**QA Tester** with 3+ years of experience specializing in manual testing, regression testing, and bug tracking.
+**QA Tester** with 3+ years of experience specializing in manual testing, regression testing and bug tracking of ErP software and an in-house built design plugin for Sketch Up.
 Currently enhancing system reliability at **Naraci Technologies Pvt Ltd**, where I’ve contributed to closing over 1000+ tickets and validating complex integrations.
 
 ---
@@ -14,40 +14,18 @@ Currently enhancing system reliability at **Naraci Technologies Pvt Ltd**, where
 * **IDEs:** VSCode, IntelliJ, Eclipse, BlueJ
 * **Others:** Redux, MongoDB, Studio3T
 
----
 
-### 📌 Professional Experience
-
-#### QA Tester @ Naraci Technologies Pvt Ltd (06/2023 – Present)
-
-* Detected and resolved 300+ bugs, boosting system reliability.
-* Conducted root cause analysis using log files.
-* Performed regression testing after fixes.
-* Validated payment integrations (PineLabs, Cashfree, HDFC) and communication tools (WhatsApp, Zoho Email, Airtel).
-* Tested inwarding workflows, PO creation, finance approvals, and refund processes.
-
-#### Design Engineer @ Naraci Technologies Pvt Ltd (02/2022 – 12/2022)
-
-* Tested design software functionality and usability.
-* Managed multiple projects and ensured timely delivery.
-* Led peer reviews and training for new designers.
-* Conducted demos for potential investors.
-
----
-
-### 🎓 Education
-
-**BE in Mechanical Engineering**
-AMC Engineering College (2017 – 2021)
-
----
-
-### ⚙️ Projects
-
-* **Smart Hybrid Electric Vehicle using AI:**
-  Reduced fuel consumption by coupling BLDC motors with CI engines. Automated gear shifting in electric mode using AI-driven servo motors.
-
----
+### ⚙️Test Experience & Domains
+## ERP
+* **Finance :** Validated payment integrations (PineLabs, Cashfree, HDFC) into ERP.
+* **Communiation :** Validated integration of communication tools like Whatsapp, Zoho email and Airtel CDR into ERP.
+* **Inwarding:** Tested inwarding workflows, PO/So/MTR creation, finance approvals, and refund processes in ERP.
+* **Sales & Design:** Tested and contributed in developing sales and design flows in ERP.
+* **Marketing:** Tested Knowlarity integration and lead genearation process.
+* **Dashboards:** Tested visibility and functionality of Interactive Dashboards.
+## Naraci Plugin
+* **Plug-in:** Tested UI and functionality of Naraci an in-house interior design plugin for Sketch Up.
+  
 
 ### 📫 Connect with me
 
