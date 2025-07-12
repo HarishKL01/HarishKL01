@@ -12,7 +12,7 @@ Currently enhancing system reliability at **Naraci Technologies Pvt Ltd**, where
 * **Programming:** Java, JavaScript
 * **Bug Tracking:** JIRA
 * **IDEs:** VSCode, IntelliJ, Eclipse, BlueJ
-* **Others:** Redux, MongoDB, Studio3T
+* **Others:** Redux, MongoDB, Studio3T,AWS S3.
 
 
 ### ⚙️Test Experience & Domains
